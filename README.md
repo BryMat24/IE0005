@@ -1,4 +1,4 @@
-# IE0005
+# Online Food Delivery Prediciton
 
 ## Overview
 This README is for the IE0005 mini project, which involves the analysis of a food delivery dataset. The original dataset can be found on Kaggle at [Food Delivery Dataset](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=train.csv).
